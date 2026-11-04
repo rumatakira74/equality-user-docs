@@ -10,11 +10,9 @@ Russian original: [README.md](README.md).
 
 > **Status: test version (pre-release).** The app has been fully validated in the test network on emulators. The verification on live phones and the first pilots — ahead. The documentation describes the product's operation per specification v9.16 / protocol_version 3 (including guardian re-election `update_guardians`: a 48 h window, a limit of 150 effective changes; the eighth scenario — a subscription resource: subscription networks with periodic quotas and burning).
 
-> **Languages (the z-ai audit, November 4, 2026).** The documentation itself is currently **in Russian only**;
-> the en/es/pt/zh translations have not been released either in this repository or in the git history. The five languages
-> (ru, en, es, pt, zh) refer to the **app's interface** (`app/lib/l10n`). A translation
-> of the documentation is planned; until its release, non-Russian-speaking pilots have the app's interface
-> and the English materials of the main repository (README-ENG, KNOWLEDGE-ENG).
+> **Languages.** The documentation is available in Russian (the original, `docs/`) and in translations:
+> [this directory](.) — English. The app's interface languages —
+> ru, en, es, pt, zh (`app/lib/l10n` of the main repository).
 
 © 2026 Kirill Lapchinsky · rumatakira74@gmail.com · Telegram [@rumatakira](https://t.me/rumatakira)
 
