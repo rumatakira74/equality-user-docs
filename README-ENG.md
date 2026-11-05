@@ -11,8 +11,15 @@ Russian original: [README.md](README.md).
 > **Status: test version (pre-release).** The app has been fully validated in the test network on emulators. The verification on live phones and the first pilots — ahead. The documentation describes the product's operation per specification v9.16 / protocol_version 3 (including guardian re-election `update_guardians`: a 48 h window, a limit of 150 effective changes; the eighth scenario — a subscription resource: subscription networks with periodic quotas and burning).
 
 > **Languages.** The documentation is available in Russian (the original, `docs/`) and in translations:
-> [this directory](.) — English. The app's interface languages —
-> ru, en, es, pt, zh (`app/lib/l10n` of the main repository).
+> [eng-translation/](eng-translation/) — English,
+> [es-translation/](es-translation/) — Spanish,
+> [pt-translation/](pt-translation/) — Portuguese,
+> [zh-translation/](zh-translation/) — Chinese,
+> [fr-translation/](fr-translation/) — French,
+> [de-translation/](de-translation/) — German,
+> [it-translation/](it-translation/) — Italian,
+> [ja-translation/](ja-translation/) — Japanese. The app's interface languages —
+> ru, en, es, pt, zh, fr, de, it, ja (`app/lib/l10n` of the main repository).
 
 © 2026 Kirill Lapchinsky · rumatakira74@gmail.com · Telegram [@rumatakira](https://t.me/rumatakira)
 

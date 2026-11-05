@@ -12,8 +12,12 @@
 > [eng-translation/](eng-translation/) — английский,
 > [es-translation/](es-translation/) — испанский,
 > [pt-translation/](pt-translation/) — португальский,
-> [zh-translation/](zh-translation/) — китайский. Языки интерфейса приложения —
-> ru, en, es, pt, zh (`app/lib/l10n` основного репозитория).
+> [zh-translation/](zh-translation/) — китайский,
+> [fr-translation/](fr-translation/) — французский,
+> [de-translation/](de-translation/) — немецкий,
+> [it-translation/](it-translation/) — итальянский,
+> [ja-translation/](ja-translation/) — японский. Языки интерфейса приложения —
+> ru, en, es, pt, zh, fr, de, it, ja (`app/lib/l10n` основного репозитория).
 
 © 2026 Лапчинский Кирилл (Kirill Lapchinsky) · rumatakira74@gmail.com · Telegram [@rumatakira](https://t.me/rumatakira)
 
